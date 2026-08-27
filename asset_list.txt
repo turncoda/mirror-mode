@@ -2,7 +2,6 @@ Mods/CustomOptions/MirrorMode/DT_MirrorMode
 Mods/MirrorMode/AC_MirrorMode
 Mods/MirrorMode/BP_MirrorCam
 Mods/MirrorMode/IMC_MirrorMode
-Mods/MirrorMode/IA_Move_NegateX
 Mods/MirrorMode/M_MirrorMode
 Mods/MirrorMode/RT_MirrorMode
 Mods/MirrorMode/Save_MirrorMode
